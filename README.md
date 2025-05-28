@@ -6,7 +6,7 @@ Olá! Sou o Natanael
 - 🏫 Facult: Análise e Desenvolvimento de Sistemas (ADS) - EAD
 
 <div>
-  <a href="https://beacons.ai/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username rafaballerini2&show_icons-true theme-dracula&include_all_commits=true&count_private-true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username-rafaballeriniz layout-compactälangs_count=16&theme-dracula"/>
+  <a href="https://beacons.ai/natthan-tk">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username natthan-tk&show_icons-true theme-dracula&include_all_commits=true&count_private-true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username-natthan-tk layout-compactälangs_count=16&theme-dracula"/>
   </div>
